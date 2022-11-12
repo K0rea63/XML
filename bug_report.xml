@@ -1,0 +1,11 @@
+<Bug report>
+<Bug ID>G01</Bug ID>
+<Title>Неверное отображение товаров при включении фильтра по бренду<Title>
+<Description>Показ товаров других брендов при включенном фильтре</Description>
+<STR and inputs>URL сайта: https://test.qa.studio/ 1.Перейти по указанной ссылке 2. Кликнуть на элемент Фильтр 3. Выбрать любой бренд из списка 4. Нажать кнопку Фильтр</STR and inputs>
+<Expected result>Отображаются товары бренда, выбранного в фильтре</Expected result>
+<Actual result>Отображаются товары других брендов</Actual result>
+<Attachments>...</Attachments>
+<Priority>High</Priority> 
+<Severity>Critical</Severity>
+</Bug report>
